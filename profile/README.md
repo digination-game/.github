@@ -1,4 +1,4 @@
-### 👋 Hello Digination !  <img src="https://github.com/digination-game/.github/blob/main/Assets/Earth.gif" width="24px">
+### 👋 Hello Digination !  <img src="https://github.com/digination-game/.github/blob/main/Assets/Earth.gif" width="24px"> <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 
 <br>
